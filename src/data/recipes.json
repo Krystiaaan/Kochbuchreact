@@ -1,0 +1,85 @@
+{
+    "recipes": [
+      {
+        "title": "Spaghetti Bolognese",
+        "image": "https://images.eatsmarter.de/sites/default/files/styles/max_size/public/spaghetti-bolognese-original-59303.jpg",
+        "ingredients": [
+          "400g Spaghetti",
+          "250g Rinderhackfleisch",
+          "1 Zwiebel, gewürfelt",
+          "2 Knoblauchzehen, gehackt",
+          "1 Dose Tomaten (400g)",
+          "Olivenöl",
+          "Salz und Pfeffer",
+          "Basilikum"
+        ],
+        "instructions": [
+          "Die Spaghetti nach Packungsanweisung kochen.",
+          "In einer Pfanne das Olivenöl erhitzen und Zwiebeln und Knoblauch anbraten.",
+          "Das Rinderhackfleisch hinzufügen und braten, bis es durchgegart ist.",
+          "Die Tomaten aus der Dose hinzufügen und alles gut vermengen.",
+          "Mit Salz, Pfeffer und Basilikum abschmecken und 15 Minuten köcheln lassen.",
+          "Die fertigen Spaghetti mit der Bolognese-Sauce servieren."
+        ]
+      },
+      {
+        "title": "Pancakes",
+        "image": "https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/facebook/public/2020-08/american_pancakes.jpg?h=4521fff0&itok=fUJP-c7A",
+        "ingredients": [
+          "200g Mehl",
+          "1 Ei",
+          "300ml Milch",
+          "1 TL Backpulver",
+          "2 EL Zucker",
+          "Prise Salz",
+          "Butter für die Pfanne"
+        ],
+        "instructions": [
+          "Mehl, Backpulver, Zucker und Salz in einer Schüssel vermengen.",
+          "Ei und Milch hinzufügen und zu einem glatten Teig verrühren.",
+          "Eine Pfanne mit etwas Butter erhitzen und kleine Portionen des Teigs hineingeben.",
+          "Die Pancakes auf beiden Seiten goldbraun braten.",
+          "Mit Ahornsirup oder frischen Früchten servieren."
+        ]
+      },
+      {
+        "title": "Caesar Salad",
+        "image": "https://img.chefkoch-cdn.de/rezepte/956701201250684/bilder/1512860/crop-960x540/caesar-salad.jpg",
+        "ingredients": [
+          "2 Romaine-Salatherzen",
+          "1/2 Tasse Croutons",
+          "50g Parmesan, gerieben",
+          "Caesar-Dressing",
+          "Hähnchenbrust (optional)"
+        ],
+        "instructions": [
+          "Die Salatherzen waschen und in mundgerechte Stücke zupfen.",
+          "Die Croutons und den Parmesan hinzufügen.",
+          "Das Dressing nach Belieben darüber geben und gut vermengen.",
+          "Optional: Hähnchenbrust grillen und auf den Salat legen."
+        ]
+      },
+      {
+        "title": "Vegetable Stir-fry",
+        "image": "https://therecipecritic.com/wp-content/uploads/2019/08/vegetable_stir_fry.jpg",
+        "ingredients": [
+          "1 Paprika",
+          "1 Zucchini",
+          "1 Karotte",
+          "100g Brokkoli",
+          "2 EL Sojasauce",
+          "1 TL Ingwer, gerieben",
+          "1 TL Sesamöl",
+          "Reis zum Servieren"
+        ],
+        "instructions": [
+          "Das Gemüse in dünne Streifen schneiden.",
+          "In einer Pfanne das Sesamöl erhitzen und den Ingwer anbraten.",
+          "Das Gemüse hinzufügen und für 5-7 Minuten anbraten, bis es weich, aber noch bissfest ist.",
+          "Mit Sojasauce ablöschen und gut vermengen.",
+          "Mit Reis servieren."
+        ]
+      }
+    ]
+  }
+  
